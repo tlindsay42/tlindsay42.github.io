@@ -1,3 +1,26 @@
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      author_profile: true
+      comments: true
+      layout: "single"
+      share: true
+      toc: true
+  # _posts
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      author_profile: true
+      comments: true
+      layout: "single"
+      read_time: true
+      related: true
+      share: true
+
 #theme: jekyll-theme-architect
 plugins:
   - jekyll-remote-theme
