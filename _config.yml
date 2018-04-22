@@ -27,6 +27,7 @@ defaults:
 #theme: jekyll-theme-architect
 theme: "minimal-mistakes-jekyll"
 # remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum" "sunrise"
 
 timezone: "America/Chicago"
 
