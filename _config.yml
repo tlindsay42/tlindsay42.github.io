@@ -22,7 +22,8 @@ defaults:
       share: true
 
 #theme: jekyll-theme-architect
-plugins:
-  - jekyll-remote-theme
+theme: "minimal-mistakes-jekyll"
+# remote_theme: "mmistakes/minimal-mistakes"
 
-remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+#   - jekyll-remote-theme
