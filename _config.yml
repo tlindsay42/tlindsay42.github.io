@@ -28,5 +28,7 @@ defaults:
 theme: "minimal-mistakes-jekyll"
 # remote_theme: "mmistakes/minimal-mistakes"
 
+timezone: "America/Chicago"
+
 plugins:
 #   - jekyll-remote-theme
